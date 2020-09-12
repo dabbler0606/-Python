@@ -10,7 +10,7 @@
 
 * [我是group2的第一页标题](wo-shi-group/wo-shi-group2-de-di-yi-ye-biao-ti.md)
 
----
+## 第三章变量
 
-* [我是外链](http://www.baidu.com)
+* [变量](di-san-zhang-bian-liang/bian-liang.md)
 
