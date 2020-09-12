@@ -10,7 +10,3 @@
 
 * [我是group2的第一页标题](wo-shi-group/wo-shi-group2-de-di-yi-ye-biao-ti.md)
 
----
-
-* [我是外链](http://www.baidu.com)
-
