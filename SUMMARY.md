@@ -5,6 +5,7 @@
 * [Python 的世界](python-de-shi-jie.md)
 * [变量](bian-liang.md)
 * [基本数据类型](ji-ben-shu-ju-lei-xing.md)
+* [选择和循环](xuan-ze-he-xun-huan.md)
 
 ## 数据结构
 
@@ -14,6 +15,8 @@
 
 ---
 
-* [选择和循环](xuan-ze-he-xun-huan.md)
+* [函数](han-shu.md)
 * [内建方法和特殊方法](nei-jian-fang-fa-he-te-shu-fang-fa.md)
+* [类](lei.md)
+* [并发](bing-fa.md)
 
