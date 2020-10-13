@@ -19,4 +19,5 @@
 * [内建方法和特殊方法](nei-jian-fang-fa-he-te-shu-fang-fa.md)
 * [类](lei.md)
 * [并发](bing-fa.md)
+* [工具](gong-ju.md)
 
